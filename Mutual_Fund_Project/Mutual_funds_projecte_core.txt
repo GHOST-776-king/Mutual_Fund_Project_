@@ -1,0 +1,9 @@
+ @Data Scraping       
+ @Data Storage (CSV)  
+ @Data Analysis          
+ @Visualization
+ @Basic Forecasting
+ @Dashboard
+ @Documentation
+ @Presentation
+ GitHub Repository
